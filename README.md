@@ -78,7 +78,7 @@ olympic-track-and-field-analysis/
 
 ---
 
-## 💡 Business & Analytical Takeaways
+## Business & Analytical Takeaways
 
 ### 1. Data Cleaning Rigor & Edge Case Management
 * **Technology & Timing Shifts:** Historical records prior to the 1970s relied on hand-timed stopwatches (rounded to tenths of a second) before transitioning to fully automatic timing (FAT) measured in hundredths. Normalizing these across 120+ years required careful schema standardization to prevent artificial performance jumps.
