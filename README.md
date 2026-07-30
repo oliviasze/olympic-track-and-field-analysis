@@ -78,11 +78,11 @@ olympic-track-and-field-analysis/
 
 ---
 
-## Business & Analytical Takeaways
+## Analytical Takeaways & Limitations
 
 ### 1. Data Cleaning Rigor & Edge Case Management
 * **Technology & Timing Shifts:** Historical records prior to the 1970s relied on hand-timed stopwatches (rounded to tenths of a second) before transitioning to fully automatic timing (FAT) measured in hundredths. Normalizing these across 120+ years required careful schema standardization to prevent artificial performance jumps.
 * **Accounting for Historical Context:** Events impacted by major geopolitical disruptions (e.g., the 1980 and 1984 Olympic boycotts) or evolving equipment rules required contextual interpretation rather than treating outliers as pure measurement error.
 
-### 2. Statistical Nuance in Growth Metrics & Limitations
+### 2. Statistical Nuance in Growth Metrics
 * **Baseline Sensitivity:** Relying strictly on first-vs-last year calculations for relative percent improvement (e.g., Men's Marathon ~39.5%) demonstrated the sensitivity of boundary-year analysis. Outlier inaugural performances or smaller field sizes in 1896 can skew overall growth rates, reinforcing the necessity of evaluating decade-over-decade rolling averages and regression trendlines over simple endpoints.
