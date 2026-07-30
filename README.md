@@ -59,6 +59,7 @@ Using combined data from three separate historical datasets, this project addres
 
 ## 📁 Repository Structure
 
+```text
 olympic-track-and-field-analysis/
 ├── README.md                 <-- Executive summary & project overview
 ├── data/
@@ -72,6 +73,8 @@ olympic-track-and-field-analysis/
 └── docs/
     └── olympic_summary.pdf <-- Comprehensive written project report
     └── olympic_presentation.pptx <-- Comprehensive written project report
+    └── *.png                 <-- Dashboard screenshots & visual assets
+```
 
 ---
 
