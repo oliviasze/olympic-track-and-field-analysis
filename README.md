@@ -25,16 +25,16 @@ Using combined data from three separate historical datasets, this project addres
 ## Visual Highlights
 
 ### Interactive Dashboard Preview
-![Dashboard Preview](docs/dashboard_preview.png)
+![Dashboard Preview](tableau/dashboard_preview.png)
 
 ### Performance Progression Across Events
-![Performance Progression](docs/performance_progression.png)
+![Performance Progression](tableau/performance_progression.png)
 
 ### Country Heatmap By Decade
-![Country Heatmap By Decade](docs/country_heatmap.png)
+![Country Heatmap By Decade](tableau/country_heatmap.png)
 
 ### Silver/Bronze Gap Over Time
-![Silver/Bronze Gap Over Time](docs/medal_gap.png)
+![Silver/Bronze Gap Over Time](tableau/medal_gap.png)
 
 ---
 
