@@ -22,7 +22,7 @@ Using combined data from three separate historical datasets, this project addres
 
 ---
 
-## 📸 Visual Highlights
+## Visual Highlights
 
 ### Interactive Dashboard Preview
 ![Dashboard Preview](docs/dashboard_preview.png)
@@ -57,7 +57,7 @@ Using combined data from three separate historical datasets, this project addres
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 olympic-track-and-field-analysis/
